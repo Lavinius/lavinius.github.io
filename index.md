@@ -1,3 +1,12 @@
+# Bio
+
+Lavinius Ioan GLIGA obtained his PhD in 2019 from the Normandy University of Rouen, France. The title of his thesis was "Diagnosis of a Wind Turbine Installation, using Wireless Sensor Networks". He is currently working as a Deep Learning & Signal Processing Engineer, as a subcontractor for FN Herstal. His fields of interest are control systems, signal processing and machine learning.
+
+## Publications
+
+- L.I. Gliga, H.Chafouk, D.Popescu and C.Lupu, "A method to estimate the process noise covariance for a certain class of nonlinear systems", _Mechanical Systems and Signal Processing_, vol. 131, pp. 381-393, 2019, https://doi.org/10.1016/j.ymssp.2019.05.054
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Lavinius/lavinius.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
