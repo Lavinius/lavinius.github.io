@@ -2,7 +2,7 @@
 
 ## Bio
 
-Contact: <br />  * lavinius.gliga@ieee.org  <br /> [LinkedIn](https://www.linkedin.com/in/lavinius-ioan-gliga-88b72b8b/) * | ![Lavinius Ioan Gliga Photo](/myPhoto.jpg)
+Contact: <br />  >> lavinius.gliga@ieee.org  <br /> >> [LinkedIn](https://www.linkedin.com/in/lavinius-ioan-gliga-88b72b8b/) | ![Lavinius Ioan Gliga Photo](/myPhoto.jpg)
 
 Lavinius Ioan GLIGA obtained his PhD in 2019 from the Normandy University of Rouen, France. The title of his thesis was "Diagnosis of a Wind Turbine Installation, using Wireless Sensor Networks". He is currently working as a Deep Learning & Signal Processing Engineer, as a subcontractor for FN Herstal. His fields of interest are control systems, signal processing and machine learning.
 
